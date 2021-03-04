@@ -6,7 +6,11 @@
     "name": "yannick1691",
     "url": "https://github.com/yannick1691"
   },
-  "version": "0.1.0",
+  "publisher": "NiceYannick",
+  "repository": {
+    "url": "https://github.com/yannick1691/php-html-in-string"
+  },
+  "version": "0.1.1",
   "license": "AGPL-3.0-or-later",
   "engines": {
     "vscode": "^1.53.0"
