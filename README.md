@@ -7,4 +7,4 @@ To enable the highlighting add a comment containing html before it. This is done
 
 | Before | After |
 | --- | --- |
-| ![Shows the default behavior of php](https://github.com/yannick1691/php-html-in-string/images/before.png) | ![Shows html highlighted inside of the string](https://github.com/yannick1691/php-html-in-string/images/after.png) |
+| ![Shows the default behavior of php](images/before.png) | ![Shows html highlighted inside of the string](images/after.png) |

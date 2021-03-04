@@ -2,6 +2,9 @@
 
 All notable changes to the "php-html-in-string" extension will be documented in this file.
 
+## 0.1.2
+Fixes images again.
+
 ## 0.1.1
 Fixes images being broken in marketplace.
 
