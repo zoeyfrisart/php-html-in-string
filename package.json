@@ -8,8 +8,10 @@
   },
   "publisher": "NiceYannick",
   "repository": {
-    "url": "https://github.com/yannick1691/php-html-in-string"
+    "url": "https://github.com/yannick1691/php-html-in-string.git",
+    "type": "git"
   },
+  "homepage": "https://github.com/yannick1691/php-html-in-string/blob/main/README.md",
   "version": "0.1.2",
   "license": "AGPL-3.0-or-later",
   "engines": {
