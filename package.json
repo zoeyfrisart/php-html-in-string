@@ -1,0 +1,32 @@
+{
+  "name": "php-html-in-string",
+  "displayName": "PHP html in string",
+  "description": "Add support for syntax highlighting in PHP strings",
+  "author": {
+    "name": "yannick1691",
+    "url": "https://github.com/yannick1691"
+  },
+  "version": "0.1.0",
+  "license": "AGPL-3.0-or-later",
+  "engines": {
+    "vscode": "^1.53.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "grammars": [
+      {
+        "injectTo": [
+          "source.php",
+          "text.html"
+        ],
+        "scopeName": "php-html-in-string.injection",
+        "path": "./syntaxes/php.tmLanguage.json",
+        "embeddedLanguages": {
+          "meta.embedded.block.html": "html"
+        }
+      }
+    ]
+  }
+}
